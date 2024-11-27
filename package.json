@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "node-fetch": "^2.7.0"
+  },
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "Here’s an example `README.md` file for your Express-based translation server:",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
